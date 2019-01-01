@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "229_MajorityElement2", "229
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "172_FactorialTrailingZeroes", "172_FactorialTrailingZeroes\172_FactorialTrailingZeroes.vcxproj", "{94D46115-A0D0-4FCE-879A-753C18E0C9ED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "189_RotateArray", "189_RotateArray\189_RotateArray.vcxproj", "{E952B8D3-FF3B-446B-A69A-55808CE11C52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{94D46115-A0D0-4FCE-879A-753C18E0C9ED}.Release|x64.Build.0 = Release|x64
 		{94D46115-A0D0-4FCE-879A-753C18E0C9ED}.Release|x86.ActiveCfg = Release|Win32
 		{94D46115-A0D0-4FCE-879A-753C18E0C9ED}.Release|x86.Build.0 = Release|Win32
+		{E952B8D3-FF3B-446B-A69A-55808CE11C52}.Debug|x64.ActiveCfg = Debug|x64
+		{E952B8D3-FF3B-446B-A69A-55808CE11C52}.Debug|x64.Build.0 = Debug|x64
+		{E952B8D3-FF3B-446B-A69A-55808CE11C52}.Debug|x86.ActiveCfg = Debug|Win32
+		{E952B8D3-FF3B-446B-A69A-55808CE11C52}.Debug|x86.Build.0 = Debug|Win32
+		{E952B8D3-FF3B-446B-A69A-55808CE11C52}.Release|x64.ActiveCfg = Release|x64
+		{E952B8D3-FF3B-446B-A69A-55808CE11C52}.Release|x64.Build.0 = Release|x64
+		{E952B8D3-FF3B-446B-A69A-55808CE11C52}.Release|x86.ActiveCfg = Release|Win32
+		{E952B8D3-FF3B-446B-A69A-55808CE11C52}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
